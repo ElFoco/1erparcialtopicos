@@ -72,14 +72,7 @@ for info in zip(tittles,prices,totalTags,totalPlatforms):
     print("Juego "+str(contador))
     contador=contador+1
     print("Titulo: "+ juego1.titulo)
-    print("Precio:"+ juego1.precio)
+    print("Precio: "+ juego1.precio)
     print("Etiquetas: "+ str(juego1.etiquetas))
     print("Plataformas: "+ str(juego1.plataformas))
     print("----------------------------------------------")
-
-
-
-
-
-
-
